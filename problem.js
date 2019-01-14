@@ -17,4 +17,12 @@ function fizzBuzz(){
     }
 }
 
+
+function adamMiranda(){
+
+window.alert("Hello, this is Adam Miranda.");
+
+}
+
+adamMiranda();
 fizzBuzz();
